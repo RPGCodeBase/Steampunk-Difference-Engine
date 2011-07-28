@@ -1,0 +1,7 @@
+Steampunk-Difference-Engine - A simple emulator of calculating machine -- the Difference Engine --
+with the unique programming language for storing and fetching data about people of Steampunk London
+RPG.
+
+Copyright (c) 2009 by Alexey Fedoseev
+aleksey@fedoseev.net
+http://steamlondon-rpg.livejournal.com/
